@@ -77,7 +77,6 @@ namespace EcommerceApp.Controllers
         }
 
         // 🔹 GET: api/productosloan
-        // 🔹 GET: api/productosloan
         [HttpGet]
         public async Task<IActionResult> GetMisPedidos()
         {
